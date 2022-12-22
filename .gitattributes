@@ -1,0 +1,8 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+# Auto detect image files and perform LF normalization
+* images=auto
+# Auto detect video files and perform LF normalization
+* video=auto
+# Auto detect audio files and perform LF normalization
+* audio=auto

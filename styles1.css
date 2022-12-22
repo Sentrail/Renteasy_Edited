@@ -1,0 +1,160 @@
+@charset "UTF-8";
+.main {
+	/*background-image: url("./img/city.jpg");*/
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 0px;
+}
+
+.div3{
+	background: linear-gradient(-230deg, lightblue, blue, lightblue, blue);
+	font-family: Impact, sans-serif;
+	color: rgb(0, 0, 0);
+	font-size: 15px;
+	border-radius: 0px 10px 0px 10px;
+	padding: 10px;
+}
+
+
+.div7{
+	margin: 0px 100px 0px 250px;
+	padding: 0px;
+}
+
+.div8{
+	border: 10px;
+	border-radius: 0px 100px 0px 100px;
+	box-shadow: 0px 0px 10px 5px rgb(0, 255, 0);
+	background: linear-gradient(50deg, Blue, lightblue);
+	padding: 20px;
+	margin: 70px 50px 70px 50px;
+	line-height: 25px;
+
+}
+
+.div9{
+	border: 10px;
+	border-radius: 0px 100px 0px 100px;
+	box-shadow: 0px 0px 10px 5px rgb(0, 255, 0);
+	background: linear-gradient(90deg, lightblue, Blue);
+	padding: 10px;
+	margin: 100px 350px 0px 350px;
+	text-align: center;
+}
+
+.div10{
+	background-image: url("./img/1642701027697.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: none;
+	padding: 30px 0px 15px 0px;
+	font-size: 40px;
+	font-weight: 50;
+	text-transform: capitalize;
+	text-align: center;
+	color: white;
+	text-shadow: 0px 0px 15px lightblue;
+	border: 1px;
+	border-radius: 70px;
+}
+
+.div11{
+	border: 5px;
+	border-radius: 20px 20px;
+	background: rgb(245, 245, 245);
+	padding: 10px;
+	margin: 0px;
+	line-height: 20px;
+	position: relative;
+}
+
+.div12{
+	border: 5px;
+	border-radius: 20px 20px;
+	padding: 0px;
+	text-align: center;
+}
+
+.div13{
+	padding: 10px;
+	margin: 0px;
+	position: relative;
+	text-align: center;
+	background: linear-gradient(45deg, lightblue, rgb(47, 113, 255));
+}
+
+.div14{
+	margin: 0px;
+	padding: 10px;
+	text-align: center;
+	background: linear-gradient(45deg, lightblue, rgb(47, 113, 255));
+	color: crimson;
+}
+
+.div15{
+	padding: 5px;
+	background-color: white;
+}
+
+
+/* Division Ending*/
+h1{
+	font-weight: 1000;
+    font-size: 40px;
+    line-height: 5px;
+	text-transform: capitalize;
+	color: rgb(0, 0, 0);
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	position: relative;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin: 0 0 15px;
+}
+
+h4 {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0 0 10px;
+}
+
+h5 {
+    font-weight: 400;
+    margin: 0 0 10px;
+    font-size: 14px;
+}
+
+h6 {
+    font-weight: 300;
+    margin: 0 0 10px;
+    font-size: 12px;
+}
+
+
+/* Paragraphs */
+.p2{
+	color: white;
+	text-align: center;
+	text-decoration: none;
+}
+
+
+.button3{
+	background-color: white;
+	border-radius: 20px 0px 20px 0px;
+	color: Black;
+	font-family: Tahoma, sans-serif;
+	align-items: center;
+	text-decoration: none;
+	padding: 20px 60px;
+	margin: 0px 0px 0px 820px;
+	box-shadow: 0px 0px 15px rgb(0, 255, 0);
+	position: relative;
+	transition-duration: 2s;
+}
+
+
